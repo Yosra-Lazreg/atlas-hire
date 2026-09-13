@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+src/atlashire.egg-info/PKG-INFO
+src/atlashire.egg-info/SOURCES.txt
+src/atlashire.egg-info/dependency_links.txt
+src/atlashire.egg-info/entry_points.txt
+src/atlashire.egg-info/requires.txt
+src/atlashire.egg-info/top_level.txt
+src/opportunity_intel/__init__.py
+src/opportunity_intel/cli.py
+src/opportunity_intel/connectors.py
+src/opportunity_intel/normalize.py
+src/opportunity_intel/pipeline.py
+src/opportunity_intel/score.py
+src/opportunity_intel/validation.py
+tests/test_core.py

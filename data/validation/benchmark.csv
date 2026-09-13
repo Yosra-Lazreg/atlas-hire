@@ -1,0 +1,20 @@
+opportunity_id,expected_label,rationale
+YAS-DA-001,Priority,Direct Algeria data analyst role aligned to target profile
+OOR-ST-001,Priority,Student internship pathway in Algeria
+OOR-AP-001,Priority,Student apprenticeship pathway in Algeria
+DJZ-ST-001,Priority,Student internship pathway in Algeria
+SGA-ST-001,Priority,Data/reporting internship pathway in Algeria
+YAS-FS-001,Stretch,Relevant role but meaningful experience gap
+YAS-DS-001,Monitor,Longer-term data science target with experience gap
+WEA-ARI-001,Check eligibility,International opportunity with broad remote wording requiring verification
+YAS-MKT-001,Monitor,Senior marketing analytics benchmark
+YAS-AM-001,Monitor,Manager-level benchmark outside student seniority
+YAS-DE-001,Monitor,Engineering-heavy role with experience gap
+UN-IAH-001,Check eligibility,International remote opportunity requiring verification
+UN-PA-001,Check eligibility,International eligibility requiring verification
+UN-DV-001,Archive,Historical expired benchmark record
+UN-ACS-001,Archive,Historical expired benchmark record
+ESR-DA-001,Archive,Historical snapshot retained only to test stale-record handling
+HH-JDA-001,Check eligibility,Country scope does not include Algeria in benchmark snapshot
+SUP-DAI-001,Archive,Historical snapshot record
+AUT-CAREER-001,Monitor,Career watchlist rather than an open vacancy

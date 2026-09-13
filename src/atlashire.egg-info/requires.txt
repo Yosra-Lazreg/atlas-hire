@@ -1,0 +1,10 @@
+duckdb<2,>=1.1
+pandas<3,>=2.2
+plotly<7,>=5.24
+PyYAML<7,>=6.0
+requests<3,>=2.32
+streamlit<2,>=1.39
+
+[dev]
+pytest<9,>=8.3
+ruff<1,>=0.8

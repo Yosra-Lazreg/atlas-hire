@@ -1,0 +1,36 @@
+name: "Replace with your name"
+country: "Algeria"
+experience_years: 0
+student: true
+
+target_roles:
+  - Data Analyst
+  - Business Intelligence Analyst
+  - Business Analyst
+  - Data Analytics Intern
+  - Product Analyst
+
+preferred_locations:
+  - Algeria
+  - Algiers
+  - Remote
+
+work_authorization:
+  - DZ
+
+languages:
+  - French
+  - English
+
+availability: "internship_or_entry_level"
+
+skills:
+  sql: 0.85
+  python: 0.70
+  excel: 0.90
+  power bi: 0.75
+  statistics: 0.60
+  data visualization: 0.80
+  pandas: 0.70
+  git: 0.55
+  communication: 0.70

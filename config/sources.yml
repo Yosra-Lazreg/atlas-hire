@@ -1,0 +1,82 @@
+sources:
+  - id: yassir
+    adapter: lever
+    handle: Yassir
+    source_url: "https://jobs.lever.co/Yassir"
+    enabled: true
+    include_terms:
+      - data
+      - analytics
+      - business intelligence
+      - reporting
+      - bi
+
+  - id: weaviate
+    adapter: ashby
+    handle: weaviate
+    company: Weaviate
+    source_url: "https://jobs.ashbyhq.com/weaviate"
+    enabled: true
+    include_terms:
+      - data
+      - analytics
+      - research
+      - machine learning
+
+  - id: hire-hangar
+    adapter: ashby
+    handle: hirehangar
+    company: Hire Hangar
+    source_url: "https://jobs.ashbyhq.com/hirehangar"
+    enabled: true
+    include_terms:
+      - data
+      - analytics
+      - analyst
+
+  - id: e-source
+    adapter: ashby
+    handle: e-source
+    company: E Source
+    source_url: "https://jobs.ashbyhq.com/e-source"
+    enabled: true
+    include_terms:
+      - data
+      - analytics
+      - analyst
+
+  - id: super-com
+    adapter: ashby
+    handle: super.com
+    company: Super.com
+    source_url: "https://jobs.ashbyhq.com/super.com"
+    enabled: true
+    include_terms:
+      - data
+      - analytics
+      - analyst
+
+  - id: ooredoo-algeria
+    adapter: manual
+    enabled: true
+    source_url: "https://www.ooredoo.dz/fr/tout-sur-ooredoo/career"
+
+  - id: djezzy
+    adapter: manual
+    enabled: true
+    source_url: "https://www.djezzy.dz/carriere"
+
+  - id: algeria-telecom-skills
+    adapter: manual
+    enabled: true
+    source_url: "https://skillscenter.algerietelecom.dz/opportunities"
+
+  - id: societe-generale-algeria
+    adapter: manual
+    enabled: true
+    source_url: "https://societegenerale.dz/fr/votre-avenir-chez-nous/nous-rejoindre/"
+
+  - id: united-nations
+    adapter: manual
+    enabled: true
+    source_url: "https://careers.un.org/jobfeed?isPage=true&language=en"

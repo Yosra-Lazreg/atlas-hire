@@ -3,7 +3,7 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
-from .connectors import refresh_config, save_lever_snapshot
+from .connectors import refresh_config
 from .pipeline import build
 from .score import load_profile
 from .validation import save_validation_report
@@ -57,7 +57,6 @@ def main(argv: list[str] | None = None) -> None:
 
     if args.command == "validate":
         # Validate the benchmark against a fresh score output without requiring DuckDB.
-        import pandas as pd
         from .normalize import normalize_snapshot
         from .score import score_opportunities
         raw = normalize_snapshot(args.snapshot, as_of=args.as_of)
